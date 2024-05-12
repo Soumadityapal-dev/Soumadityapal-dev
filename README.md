@@ -100,5 +100,4 @@ I'm a second-year undergraduate student majoring in computer science and enginee
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
