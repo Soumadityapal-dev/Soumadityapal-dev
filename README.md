@@ -15,11 +15,16 @@
 
 - 📫 How to reach me **soumadityapal@outlook.com**
 
+<br/>  
+
+### Glad to see you here!  
+I'm a second-year undergraduate student majoring in computer science and engineering. My passion lies in coding and technology. I have a solid grasp of languages like C, C++, and data structures and algorithms. Moreover, I'm proficient in web development, utilizing tools such as MongoDB, React JS, Express JS, and Node JS. With expertise in version control systems like Git and GitHub, I actively contribute to open-source projects. I'm committed to continuous learning and am currently expanding my skills in Android development. I'm dedicated to advancing in the dynamic field of computer science."  
+
+<br/>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soumadityapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumadityapal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumaditya pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumaditya pal" height="30" width="40" /></a>
-<a href="https://fb.com/soumaditya pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumaditya pal" height="30" width="40" /></a>
 <a href="https://instagram.com/soumaditya_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumaditya_pal" height="30" width="40" /></a>
 </p>
 
