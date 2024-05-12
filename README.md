@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumadityapal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="soumadityapal-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumadityapal-dev" alt="soumadityapal-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/soumadityapal" target="blank"><img src="https://img.shields.io/twitter/follow/soumadityapal?logo=twitter&style=for-the-badge" alt="soumadityapal" /></a> </p>
 
 - 🔭 I’m currently working on **an online NFT market as a backend developer.**
@@ -20,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soumadityapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumadityapal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumaditya-pal-109029309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumaditya-pal-109029309" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/bbxftjksqyncyf9p/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/bbxftjksqyncyf9p/?mibextid=qi2omg" height="30" width="40" /></a>
-<a href="https://instagram.com/soumaditya.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumaditya.pal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumaditya pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumaditya pal" height="30" width="40" /></a>
+<a href="https://fb.com/soumaditya pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soumaditya pal" height="30" width="40" /></a>
+<a href="https://instagram.com/soumaditya_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumaditya_pal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
